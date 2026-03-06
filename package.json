@@ -1,0 +1,29 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "this is reactjs by akash",
+  "keywords": [],
+  "homepage": "https://github.com/akash-giri/ReactJs#readme",
+  "bugs": {
+    "url": "https://github.com/akash-giri/ReactJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash-giri/ReactJs.git"
+  },
+  "license": "ISC",
+  "author": "akash",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
